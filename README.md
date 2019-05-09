@@ -6,7 +6,7 @@ Mac/Unix:
 ./run.sh -status completed -offset 0 -url oic-production.integration.ocp.oraclecloud.com -user user@oracle.com -password password
 
 Windows:
-.\run.bat -status completed -offset 0 -url oic-production.integration.ocp.oraclecloud.com -offset 0 -user user@oracle.com -password password
+.\run.bat -status completed -offset 0 -url oic-production.integration.ocp.oraclecloud.com -user user@oracle.com -password password
 
 Options
 -status: [completed|open]. Default: open
